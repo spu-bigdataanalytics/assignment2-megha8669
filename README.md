@@ -16,6 +16,7 @@ But i am using this kindd of Library
 
 - [multiprocessing](https://docs.python.org/3.8/library/multiprocessing.html)
 - [threading](https://docs.python.org/3.8/library/threading.html)
+
 In task one, gathering the images from Imgur, the library “concurrent.future” was used.And In task two, resizing the images, the library “multiprocessing” was used.
 
 I can says that its really improve the speed of the serial-programming application by using threading and/ or multiprocessing.
